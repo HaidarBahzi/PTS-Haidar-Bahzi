@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">STEAM</string>
+
+    <string name="app_logo_name">HYDR APP</string>
+
+    <string name="button_valve">Valve</string>
+    <string name="button_ea">EA</string>
+
+    <string-array name="listGameName">
+        <item>Artifact</item>
+        <item>Counter-Strike</item>
+        <item>Counter-Strike: Source</item>
+        <item>Counter-Strike:\nGlobal Offensive</item>
+        <item>DOTA 2</item>
+        <item>Half-Life</item>
+        <item>Half-Life 2</item>
+        <item>Half-Life 2: Episode One</item>
+        <item>Half-Life 2: Episode Two</item>
+        <item>Half-Life: Alyx</item>
+        <item>Left 4 Dead</item>
+        <item>Left 4 Dead 2</item>
+        <item>Portal</item>
+        <item>Portal 2</item>
+        <item>Team Fortress 2</item>
+        <item>Dota Underlords</item>
+    </string-array>
+
+    <string-array name="listGamePrice">
+        <item>Free to Play\n</item>
+        <item>Rp69.999\n</item>
+        <item>Rp90.999\n</item>
+        <item>Free to Play\n</item>
+        <item>Free to Play\n</item>
+        <item>Rp69.999\n</item>
+        <item>Rp90.999\n</item>
+        <item>Rp74.000\n</item>
+        <item>Rp59.999\n</item>
+        <item>Rp449.999\n</item>
+        <item>Rp90.999\n</item>
+        <item>Rp90.999\n</item>
+        <item>Rp90.999\n</item>
+        <item>Rp90.999\n</item>
+        <item>Free to Play\n</item>
+        <item>Free to Play\n</item>
+    </string-array>
+
+    <integer-array name="listGameImage">
+        <item>@drawable/game_artifact</item>
+        <item>@drawable/game_cs</item>
+        <item>@drawable/game_cs_source</item>
+        <item>@drawable/game_csgo</item>
+        <item>@drawable/game_dota2</item>
+        <item>@drawable/game_hl</item>
+        <item>@drawable/game_hl2</item>
+        <item>@drawable/game_hl2_eps1</item>
+        <item>@drawable/game_hl2_eps2</item>
+        <item>@drawable/game_hl_alyx</item>
+        <item>@drawable/game_l4d</item>
+        <item>@drawable/game_l4d2</item>
+        <item>@drawable/game_portal</item>
+        <item>@drawable/game_portal2</item>
+        <item>@drawable/game_tf2</item>
+        <item>@drawable/game_underlords</item>
+    </integer-array>
+
+    <string-array name="listGameGenre">
+        <item>Strategy</item>
+        <item>FPS - Shooter</item>
+        <item>FPS - Shooter</item>
+        <item>FPS - Shooter</item>
+        <item>Strategy - Action</item>
+        <item>Action</item>
+        <item>Action</item>
+        <item>Action</item>
+        <item>Action</item>
+        <item>Action - Adventure</item>
+        <item>Action</item>
+        <item>Action</item>
+        <item>Action</item>
+        <item>Action</item>
+        <item>Action</item>
+        <item>Casual - Strategy</item>
+    </string-array>
+
+    <string-array name="listGameDescription">
+        <item>
+            STREAMLINED GAMEPLAY \n
+    \n We\'ve taken the essence of Artifact and refined it based on community feedback:\n
+    • All 3 lanes are in view at the same time.\n
+    • Unified mana pool across lanes.\n
+    • Dramatically reduced the degree to which randomness affects gameplay.\n\n
+
+            ALL-NEW CONTENT \n\n
+• Over 100 new cards, including over 20 new heroes!\n
+• Extended tutorial and playable demo scenarios for each hero.\n
+• New PvE content: Beginner campaign and standalone challenges.\n
+• New PvP mode: Hero Draft.\n\n
+
+FREE AND OPEN \n\n
+Artifact Foundry is free to play. Cards are unlocked solely through gameplay, with no pack purchasing.
+        </item>
+
+        <item>
+            Play the world\'s number 1 online action game. Engage in an incredibly realistic brand of terrorist warfare in this wildly popular team-based game.\n\n
+            Ally with teammates to complete strategic missions. Take out enemy sites. Rescue hostages. Your role affects your team\'s success.
+        </item>
+
+        <item>THE NEXT INSTALLMENT OF THE WORLD\'S # 1 ONLINE ACTION GAME\n\n
+Counter-Strike: Source blends Counter-Strike\'s award-winning teamplay action with the advanced technology of Source™ technology. Featuring state of the art graphics, all new sounds, and introducing physics, Counter-Strike: Source is a must-have for every action gamer. </item>
+
+        <item>Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago.\n\n
+CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).</item>
+
+        <item>The most-played game on Steam.\n\n
+Every day, millions of players worldwide enter battle as one of over a hundred Dota heroes. And no matter if it\'s their 10th hour of play or 1,000th, there\'s always something new to discover. With regular updates that ensure a constant evolution of gameplay, features, and heroes, Dota 2 has truly taken on a life of its own.\n\n
+
+One Battlefield. Infinite Possibilities.\n\n
+When it comes to diversity of heroes, abilities, and powerful items, Dota boasts an endless array—no two games are the same. Any hero can fill multiple roles, and there\'s an abundance of items to help meet the needs of each game. Dota doesn\'t provide limitations on how to play, it empowers you to express your own style.
+        </item>
+
+        <item>Named Game of the Year by over 50 publications, Valve\'s debut title blends action and adventure with award-winning technology to create a frighteningly realistic world where players must think to survive. Also includes an exciting multiplayer mode that allows you to play against friends and enemies around the world.</item>
+
+        <item>By taking the suspense, challenge and visceral charge of the original, and adding startling new realism and responsiveness, Half-Life 2 opens the door to a world where the player\'s presence affects everything around them, from the physical environment to the behaviors even the emotions of both friends and enemies.</item>
+
+        <item>Half-Life 2 has sold over 4 million copies worldwide, and earned over 35 Game of the Year Awards. Episode One is the first in a series of games that reveal the aftermath of Half-Life 2 and launch a journey beyond City 17. Also features two multiplayer games. Half-Life 2 not required. </item>
+
+        <item>Half-Life® 2: Episode Two is the second in a trilogy of new games created by Valve that extends the award-winning and best-selling Half-Life® adventure.\n\nAs Dr. Gordon Freeman, you were last seen exiting City 17 with Alyx Vance as the Citadel erupted amidst a storm of unknown proportions.</item>
+
+        <item>Half-Life: Alyx is Valve’s VR return to the Half-Life series. It’s the story of an impossible fight against a vicious alien race known as the Combine, set between the events of Half-Life and Half-Life 2.\n\nPlaying as Alyx Vance, you are humanity’s only chance for survival. The Combine’s control of the planet since the Black Mesa incident has only strengthened as they corral the remaining population in cities. Among them are some of Earth’s greatest scientists: you and your father, Dr. Eli Vance. </item>
+
+        <item>From Valve comes Left 4 Dead, a co-op action horror game for the PC and Xbox 360 that casts up to four players in an epic struggle for survival against swarming zombie hordes and terrifying mutant monsters.\n\nSet in the immediate aftermath of the zombie apocalypse, guiding your survivors across the rooftops of an abandoned metropolis, through rural ghost towns and pitch-black forests in your quest to escape a devastated Ground Zero crawling with infected enemies.</item>
+
+        <item>This co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns.\n\nYou\'ll play as one of four new survivors armed with a wide and devastating array of classic and upgraded weapons. In addition to firearms, you\'ll also get a chance to take out some aggression on infected with a variety of carnage-creating melee weapons, from chainsaws to axes and even the deadly frying pan.</item>
+
+        <item>Portal™ is a new single player game from Valve. Set in the mysterious Aperture Science Laboratories, Portal has been called one of the most innovative new games on the horizon and will offer gamers hours of unique gameplay.</item>
+
+        <item>Portal 2 draws from the award-winning formula of innovative gameplay, story, and music that earned the original Portal over 70 industry accolades and created a cult following.\n\nThe single-player portion of Portal 2 introduces a cast of dynamic new characters, a host of fresh puzzle elements, and a much larger set of devious test chambers. </item>
+
+        <item>One of the most popular online action games of all time, Team Fortress 2 delivers constant free updates—new game modes, maps, equipment and, most importantly, hats. Nine distinct classes provide a broad range of tactical abilities and personalities, and lend themselves to a variety of player skills.\n\n</item>
+
+        <item>NEXT GENERATION AUTO-BATTLER\n\nIn Dota Underlords, strategic decisions matter more than twitch reflexes. Underlords includes compelling singleplayer and multiplayer modes, and offers level progression with rewards. Play a strategic Standard game, a quick Knockout match, or co-op Duos match with a friend.\n\n
+</item>
+    </string-array>
+
+</resources>
